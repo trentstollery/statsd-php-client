@@ -2,5 +2,5 @@
     "name": "trentstollery/statsd-php-client",    
     "description": "A Simple PHP based statsd lib",
     "type": "library",
-    "license": "BSD-3-Clause",
+    "license": "BSD-3-Clause"
 }
